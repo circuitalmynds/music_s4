@@ -37,6 +37,13 @@
             "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Masayoshi Takanaka - T Wave (1980) [14ZtNIFPqZA].mp4?raw=true"
         },
         {
+            "id": "SuKcF1UzLTk",
+            "name": "Tempo Rubato - Don't Stop The Classics.1985 [SuKcF1UzLTk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Tempo Rubato - Don't Stop The Classics.1985 [SuKcF1UzLTk].mp4",
+            "size": 15.206138999999999,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Tempo Rubato - Don't Stop The Classics.1985 [SuKcF1UzLTk].mp4?raw=true"
+        },
+        {
             "id": "yDmCp_kgjiA",
             "name": "Giorgio and Chris lato A [yDmCp_kgjiA].mp4",
             "path": "/home/alanmatzumiya/Videos/container/s4/videos/Giorgio and Chris lato A [yDmCp_kgjiA].mp4",
@@ -70,6 +77,13 @@
             "path": "/home/alanmatzumiya/Videos/container/s4/videos/The Real American Folk Song [WK_uAxTvvJs].mp4",
             "size": 12.917204,
             "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/The Real American Folk Song [WK_uAxTvvJs].mp4?raw=true"
+        },
+        {
+            "id": "BPNczb288NE",
+            "name": "Stephen Hough ： Fanfare Toccata (2020) [BPNczb288NE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Stephen Hough ： Fanfare Toccata (2020) [BPNczb288NE].mp4",
+            "size": 8.90951,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Stephen Hough ： Fanfare Toccata (2020) [BPNczb288NE].mp4?raw=true"
         },
         {
             "id": "Eb-soe-W_co",
@@ -184,6 +198,13 @@
             "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Ya Shadi Al-Alhan [TEKJmcSgQ20].mp4?raw=true"
         },
         {
+            "id": "YNYYRl86R4g",
+            "name": "Japan -  Ghosts [YNYYRl86R4g].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Japan -  Ghosts [YNYYRl86R4g].mp4",
+            "size": 8.037982999999999,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Japan -  Ghosts [YNYYRl86R4g].mp4?raw=true"
+        },
+        {
             "id": "M-CSi0d9Qow",
             "name": "The Trio (From ＂The Good, the Bad and the Ugly＂) [M-CSi0d9Qow].mp4",
             "path": "/home/alanmatzumiya/Videos/container/s4/videos/The Trio (From ＂The Good, the Bad and the Ugly＂) [M-CSi0d9Qow].mp4",
@@ -226,5 +247,5 @@
             "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/It's Foxy [bAPyB9I28W4].mp4?raw=true"
         }
     ],
-    "total_size": 911.716946
+    "total_size": 943.8705780000001
 }
