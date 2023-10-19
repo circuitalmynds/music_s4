@@ -1,5 +1,230 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "6U6mNAXtCOk",
+            "name": "Kraftwerk - Electric Café 1986 [6U6mNAXtCOk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Kraftwerk - Electric Café 1986 [6U6mNAXtCOk].mp4",
+            "size": 47.391329999999996,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Kraftwerk - Electric Café 1986 [6U6mNAXtCOk].mp4?raw=true"
+        },
+        {
+            "id": "iunVLyYZn5g",
+            "name": "Swing valse - Gus Viseur [iunVLyYZn5g].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Swing valse - Gus Viseur [iunVLyYZn5g].mp4",
+            "size": 1.7550759999999999,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Swing valse - Gus Viseur [iunVLyYZn5g].mp4?raw=true"
+        },
+        {
+            "id": "85r8PZvcP8U",
+            "name": "Piano Concerto in E Major ＂Romantic＂： III. Sehr lebhaft [85r8PZvcP8U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Piano Concerto in E Major ＂Romantic＂： III. Sehr lebhaft [85r8PZvcP8U].mp4",
+            "size": 30.891809,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Piano Concerto in E Major ＂Romantic＂： III. Sehr lebhaft [85r8PZvcP8U].mp4?raw=true"
+        },
+        {
+            "id": "0vfU4cmdx-s",
+            "name": "Mozart - Symphony No. 41 Jupiter _ Hartmut Haenchen & Carl Philipp Emanuel Bach Chamber Orchestra [0vfU4cmdx-s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Mozart - Symphony No. 41 Jupiter _ Hartmut Haenchen & Carl Philipp Emanuel Bach Chamber Orchestra [0vfU4cmdx-s].mp4",
+            "size": 93.88407099999999,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Mozart - Symphony No. 41 Jupiter _ Hartmut Haenchen & Carl Philipp Emanuel Bach Chamber Orchestra [0vfU4cmdx-s].mp4?raw=true"
+        },
+        {
+            "id": "14ZtNIFPqZA",
+            "name": "Masayoshi Takanaka - T Wave (1980) [14ZtNIFPqZA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Masayoshi Takanaka - T Wave (1980) [14ZtNIFPqZA].mp4",
+            "size": 49.479051,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Masayoshi Takanaka - T Wave (1980) [14ZtNIFPqZA].mp4?raw=true"
+        },
+        {
+            "id": "yDmCp_kgjiA",
+            "name": "Giorgio and Chris lato A [yDmCp_kgjiA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Giorgio and Chris lato A [yDmCp_kgjiA].mp4",
+            "size": 22.011172,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Giorgio and Chris lato A [yDmCp_kgjiA].mp4?raw=true"
+        },
+        {
+            "id": "3UjVIsNzpFk",
+            "name": "To Sir, With Love - Lulu [3UjVIsNzpFk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/To Sir, With Love - Lulu [3UjVIsNzpFk].mp4",
+            "size": 5.918330999999999,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/To Sir, With Love - Lulu [3UjVIsNzpFk].mp4?raw=true"
+        },
+        {
+            "id": "xSDCz0b_Q5c",
+            "name": "Al Bowlly with Victor Young & His Orchestra： When Love Comes Swingin' Along (Koehler, Henderson) [xSDCz0b_Q5c].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Al Bowlly with Victor Young & His Orchestra： When Love Comes Swingin' Along (Koehler, Henderson) [xSDCz0b_Q5c].mp4",
+            "size": 9.669991,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Al Bowlly with Victor Young & His Orchestra： When Love Comes Swingin' Along (Koehler, Henderson) [xSDCz0b_Q5c].mp4?raw=true"
+        },
+        {
+            "id": "AXIUSt07b5w",
+            "name": "Liszt： Années de pèlerinage II, S. 161 - VI. Sonetto 123 del Petrarca [AXIUSt07b5w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Liszt： Années de pèlerinage II, S. 161 - VI. Sonetto 123 del Petrarca [AXIUSt07b5w].mp4",
+            "size": 15.970638,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Liszt： Années de pèlerinage II, S. 161 - VI. Sonetto 123 del Petrarca [AXIUSt07b5w].mp4?raw=true"
+        },
+        {
+            "id": "WK_uAxTvvJs",
+            "name": "The Real American Folk Song [WK_uAxTvvJs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/The Real American Folk Song [WK_uAxTvvJs].mp4",
+            "size": 12.917204,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/The Real American Folk Song [WK_uAxTvvJs].mp4?raw=true"
+        },
+        {
+            "id": "Eb-soe-W_co",
+            "name": "Moritz Moszkowski - Selected Works for Piano [Eb-soe-W_co].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Moritz Moszkowski - Selected Works for Piano [Eb-soe-W_co].mp4",
+            "size": 68.928367,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Moritz Moszkowski - Selected Works for Piano [Eb-soe-W_co].mp4?raw=true"
+        },
+        {
+            "id": "YR5USHu6D6U",
+            "name": "P. Tchaikovsky - Pas de Deux ('The Nutcracker') [YR5USHu6D6U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/P. Tchaikovsky - Pas de Deux ('The Nutcracker') [YR5USHu6D6U].mp4",
+            "size": 6.394823,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/P. Tchaikovsky - Pas de Deux ('The Nutcracker') [YR5USHu6D6U].mp4?raw=true"
+        },
+        {
+            "id": "SIl7T9KsfMI",
+            "name": "Why？ (12＂ Version) [SIl7T9KsfMI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Why？ (12＂ Version) [SIl7T9KsfMI].mp4",
+            "size": 10.736632,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Why？ (12＂ Version) [SIl7T9KsfMI].mp4?raw=true"
+        },
+        {
+            "id": "5QmoIKQZX8Y",
+            "name": "CHORAL FANTASY in C minor Op. 80 ｜ Evgeny Kissin, Claudio Abbado, Cheryl Studer, John Aler (R.I.P.) [5QmoIKQZX8Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/CHORAL FANTASY in C minor Op. 80 ｜ Evgeny Kissin, Claudio Abbado, Cheryl Studer, John Aler (R.I.P.) [5QmoIKQZX8Y].mp4",
+            "size": 31.792831999999997,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/CHORAL FANTASY in C minor Op. 80 ｜ Evgeny Kissin, Claudio Abbado, Cheryl Studer, John Aler (R.I.P.) [5QmoIKQZX8Y].mp4?raw=true"
+        },
+        {
+            "id": "z865fk3j_kg",
+            "name": "Cienfuegos Tiene Su Guaguancó [z865fk3j_kg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Cienfuegos Tiene Su Guaguancó [z865fk3j_kg].mp4",
+            "size": 10.769554999999999,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Cienfuegos Tiene Su Guaguancó [z865fk3j_kg].mp4?raw=true"
+        },
+        {
+            "id": "TKFJcQtcJcM",
+            "name": "Patrick Cowley & Jorge Socarras ‎– Catholic (1976) Complete Album [TKFJcQtcJcM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Patrick Cowley & Jorge Socarras ‎– Catholic (1976) Complete Album [TKFJcQtcJcM].mp4",
+            "size": 72.652087,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Patrick Cowley & Jorge Socarras ‎– Catholic (1976) Complete Album [TKFJcQtcJcM].mp4?raw=true"
+        },
+        {
+            "id": "z9CfWuUIhvk",
+            "name": "Money Jungle (Remastered) [z9CfWuUIhvk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Money Jungle (Remastered) [z9CfWuUIhvk].mp4",
+            "size": 14.644853999999999,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Money Jungle (Remastered) [z9CfWuUIhvk].mp4?raw=true"
+        },
+        {
+            "id": "GrP42-0tIro",
+            "name": "State Farm [GrP42-0tIro].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/State Farm [GrP42-0tIro].mp4",
+            "size": 12.649319,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/State Farm [GrP42-0tIro].mp4?raw=true"
+        },
+        {
+            "id": "G3-ZniwXSYY",
+            "name": "The Best of Dvořák [G3-ZniwXSYY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/The Best of Dvořák [G3-ZniwXSYY].mp4",
+            "size": 66.652344,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/The Best of Dvořák [G3-ZniwXSYY].mp4?raw=true"
+        },
+        {
+            "id": "iKHUqfnSXlA",
+            "name": "Emma Matthews - The Mad Scene - Lucia di Lammermoor 2012 [iKHUqfnSXlA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Emma Matthews - The Mad Scene - Lucia di Lammermoor 2012 [iKHUqfnSXlA].mp4",
+            "size": 33.135041,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Emma Matthews - The Mad Scene - Lucia di Lammermoor 2012 [iKHUqfnSXlA].mp4?raw=true"
+        },
+        {
+            "id": "7l5ym7QCRik",
+            "name": "Paganini： Sonata a preghiera M.S.23 - In F Minor per violino IV corda e chitarra - transcrip.... [7l5ym7QCRik].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Paganini： Sonata a preghiera M.S.23 - In F Minor per violino IV corda e chitarra - transcrip.... [7l5ym7QCRik].mp4",
+            "size": 4.07894,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Paganini： Sonata a preghiera M.S.23 - In F Minor per violino IV corda e chitarra - transcrip.... [7l5ym7QCRik].mp4?raw=true"
+        },
+        {
+            "id": "C88mCCGQQ-o",
+            "name": "Gershwin： Overture [Funny Face] (Arr. Rose) [C88mCCGQQ-o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Gershwin： Overture [Funny Face] (Arr. Rose) [C88mCCGQQ-o].mp4",
+            "size": 17.096586,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Gershwin： Overture [Funny Face] (Arr. Rose) [C88mCCGQQ-o].mp4?raw=true"
+        },
+        {
+            "id": "hqbBUVs4To8",
+            "name": "Liszt： Tasso, Lamento e trionfo, symphonic poem No. 2, S.96 (after Byron) [hqbBUVs4To8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Liszt： Tasso, Lamento e trionfo, symphonic poem No. 2, S.96 (after Byron) [hqbBUVs4To8].mp4",
+            "size": 46.497566,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Liszt： Tasso, Lamento e trionfo, symphonic poem No. 2, S.96 (after Byron) [hqbBUVs4To8].mp4?raw=true"
+        },
+        {
+            "id": "9gagAQDiYMc",
+            "name": "Johann Sebastian Bach - Keyboard Concerto No. 4 in A major, BWV 1055 [9gagAQDiYMc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Johann Sebastian Bach - Keyboard Concerto No. 4 in A major, BWV 1055 [9gagAQDiYMc].mp4",
+            "size": 35.491462,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Johann Sebastian Bach - Keyboard Concerto No. 4 in A major, BWV 1055 [9gagAQDiYMc].mp4?raw=true"
+        },
+        {
+            "id": "z2x4Uy8K_1A",
+            "name": "Liszt Piano Concerto No. 1 in E-flat Major S. 124 (with sheet music) [z2x4Uy8K_1A].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Liszt Piano Concerto No. 1 in E-flat Major S. 124 (with sheet music) [z2x4Uy8K_1A].mp4",
+            "size": 54.313784,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Liszt Piano Concerto No. 1 in E-flat Major S. 124 (with sheet music) [z2x4Uy8K_1A].mp4?raw=true"
+        },
+        {
+            "id": "TEKJmcSgQ20",
+            "name": "Ya Shadi Al-Alhan [TEKJmcSgQ20].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Ya Shadi Al-Alhan [TEKJmcSgQ20].mp4",
+            "size": 17.039008,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Ya Shadi Al-Alhan [TEKJmcSgQ20].mp4?raw=true"
+        },
+        {
+            "id": "M-CSi0d9Qow",
+            "name": "The Trio (From ＂The Good, the Bad and the Ugly＂) [M-CSi0d9Qow].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/The Trio (From ＂The Good, the Bad and the Ugly＂) [M-CSi0d9Qow].mp4",
+            "size": 14.710809999999999,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/The Trio (From ＂The Good, the Bad and the Ugly＂) [M-CSi0d9Qow].mp4?raw=true"
+        },
+        {
+            "id": "wkAnau-XU80",
+            "name": "Miroirs： III. Une barque sur l'océan [wkAnau-XU80].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Miroirs： III. Une barque sur l'océan [wkAnau-XU80].mp4",
+            "size": 19.044784999999997,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Miroirs： III. Une barque sur l'océan [wkAnau-XU80].mp4?raw=true"
+        },
+        {
+            "id": "fQVLXkekxLE",
+            "name": "Let The Music Play (extended mix) - Giorgio Moroder (1977 DISCO) [fQVLXkekxLE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Let The Music Play (extended mix) - Giorgio Moroder (1977 DISCO) [fQVLXkekxLE].mp4",
+            "size": 19.422041999999998,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Let The Music Play (extended mix) - Giorgio Moroder (1977 DISCO) [fQVLXkekxLE].mp4?raw=true"
+        },
+        {
+            "id": "TCSDBxs6l28",
+            "name": "Marie Jaëll (1846-1925) - Piano Concerto Nº 2 en do mineur [TCSDBxs6l28].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/Marie Jaëll (1846-1925) - Piano Concerto Nº 2 en do mineur [TCSDBxs6l28].mp4",
+            "size": 38.096951,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/Marie Jaëll (1846-1925) - Piano Concerto Nº 2 en do mineur [TCSDBxs6l28].mp4?raw=true"
+        },
+        {
+            "id": "3LY3ftiLqmE",
+            "name": "New Order - Elegia [Full Version] [3LY3ftiLqmE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/New Order - Elegia [Full Version] [3LY3ftiLqmE].mp4",
+            "size": 19.096011999999998,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/New Order - Elegia [Full Version] [3LY3ftiLqmE].mp4?raw=true"
+        },
+        {
+            "id": "bAPyB9I28W4",
+            "name": "It's Foxy [bAPyB9I28W4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s4/videos/It's Foxy [bAPyB9I28W4].mp4",
+            "size": 8.584473,
+            "url": "https://github.com/circuitalmynds/music_s4/blob/main/videos/It's Foxy [bAPyB9I28W4].mp4?raw=true"
+        }
+    ],
+    "total_size": 911.716946
 }
